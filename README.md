@@ -1,2 +1,2 @@
-# nemoshop
-네모샵
+# nemo-shop
+nemo-shop
